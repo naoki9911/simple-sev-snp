@@ -1,5 +1,7 @@
 # Simple AMD SEV-SNP Example
 
+The detail is described in [This blog post](https://pibvt.hateblo.jp/entry/2023/12/30/215633).
+
 ```
 # Setup Rust environment
 ~$ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
