@@ -1,0 +1,6 @@
+[submodule "sev-snp-measure"]
+	path = sev-snp-measure
+	url = https://github.com/virtee/sev-snp-measure
+[submodule "snpguest"]
+	path = snpguest
+	url = https://github.com/virtee/snpguest
